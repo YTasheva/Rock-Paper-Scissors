@@ -40,7 +40,7 @@
 <img width="984" alt="Screenshot 2023-11-11 at 14 49 41" src="https://github.com/YTasheva/Rock-Paper-Scissors/assets/148258557/4acfdd4e-9d89-4ebe-821c-f6c29accbac4">
 
 ### Links
-- Solution URL: 
+- Solution URL: (https://github.com/YTasheva/Rock-Paper-Scissors)
 - Live Site URL:
   
 ### Build With
