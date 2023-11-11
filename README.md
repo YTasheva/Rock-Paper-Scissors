@@ -4,6 +4,7 @@
 
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
+  - [Rules for rock-paper-scissors](#rules-for-rock-paper-scissors)
   - [Acceptance Criteria](#acceptance-criteria)
   - [Screenshot](#screenshot)
   - [Links](#links)
@@ -16,13 +17,11 @@
 
 -  Construct a rock-paper-scissors game utilizing for loops, arrays, and conditional logic.
 
-- **Rules for rock-paper-scissors**
+### Rules for rock-paper-scisors
 
 * Rock: wins against scissors, loses to paper, and ties against itself.
 * Paper: wins against rock, loses to scissors, and ties against itself.
 * Scissors: wins against paper, loses to rock, and ties against itself.
-
-![RPS-Example-Picture](images/RPS-example.png)
 
 ### Acceptance Criteria
 
